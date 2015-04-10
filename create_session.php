@@ -1,5 +1,6 @@
 <?php
 /* Change in the source file test */
+/* More changes in source testing */
 session_start();
  
 if (!isset($_SESSION['views'])) $_SESSION['views'] = 0;
