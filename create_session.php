@@ -1,6 +1,7 @@
 <?php
 /* Change in the source file test */
 /* Modified this line */
+/* Added a line, 2nd local commit */
 session_start();
  
 if (!isset($_SESSION['views'])) $_SESSION['views'] = 0;
